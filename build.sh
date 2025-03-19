@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="vaishu273/day2task"
+IMAGE_NAME="vaishu273/devops"
 TAG="latest"
 
 # Build Docker image
