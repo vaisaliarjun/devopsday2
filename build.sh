@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/docker"
+IMAGE_NAME="vaishu273/day2task"
 TAG="latest"
 
 # Build Docker image
