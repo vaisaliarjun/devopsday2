@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="vaishu273/docker"
+IMAGE_NAME="vaishu273/devops"
 TAG="latest"
 CONTAINER_NAME="jenkins-docker-container"
 
